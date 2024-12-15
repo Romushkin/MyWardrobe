@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Мой гардероб</string>
+    <string name="exit">Exit</string>
+    <string name="start">К гардеробу</string>
+    <string name="item_name">Название</string>
+    <string name="item_description">Описание</string>
+</resources>
